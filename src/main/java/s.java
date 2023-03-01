@@ -11,6 +11,8 @@ public class s {
         System.out.println("yeni");
         System.out.println("throw exception");
         System.out.println("hakan");
+        System.out.println("hakan2");
+        System.out.println("hakan3");
 
     }
 
