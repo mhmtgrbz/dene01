@@ -8,6 +8,7 @@ public class s {
         System.out.println("Merhaba");
         System.out.println("Merhaba");
         System.out.println("Merhaba");
+        System.out.println("yeni");
 
     }
 
